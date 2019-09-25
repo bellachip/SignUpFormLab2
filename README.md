@@ -3,15 +3,6 @@ implementation document
 
 <p><b>SignUpForm Lab2 Documentation Readme.md</b></p>
 
-A README is often the first item a visitor will see when visiting your repository. README files typically include information on:
-
-What the project does
-Why the project is useful
-How users can get started with the project
-Where users can get help with your project
-Who maintains and contributes to the project
-
-
 This project is an Android application that collects a user's name, email, a password, and a password confirmation. It also contains a Save button. 
 The app displays a message containing the use's name, welcoming them to the app. 
 
