@@ -22,5 +22,5 @@ Below is the screenshots for the user using the emulator and different outputs.
 
 <img src="FillIn.png" alt="Fill In Image" height="500px" width="250px">
 <img src="EmptyFields.png" alt="Empty Fields Image" height="500px" width="250px">
-<img src="ConfirmError.png" alt="Password Error Image" height="500px" width="250px">
+<img src="ConfrimError.png" alt="Password Error Image" height="500px" width="250px">
 <img src="SuccessfulSignUp.png" alt="Successful SignUp" height="500px" width="250px">
